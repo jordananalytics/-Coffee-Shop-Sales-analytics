@@ -95,7 +95,7 @@ the drivers of these fluctuations could help replicate high-performing periods w
 
 ## Sales Overall Performance
 
-![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/overall.png)
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/Overall.png)
 
 Monthly revenue: $172.41K — +6.3% vs. last month
 Weekly revenue: $27.39K — -35.2% vs. last week
