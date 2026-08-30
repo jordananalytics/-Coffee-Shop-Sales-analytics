@@ -2,7 +2,7 @@
 
 ## Sales Overview
 
-![Coffee Shop Sales Dashboard](Photos/over.png)
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/over.png)
 
 ##  Key Performance Indicators
 
