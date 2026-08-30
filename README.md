@@ -64,11 +64,33 @@ Was there a promotion last week that wasn't repeated
 Are specific products unavailable
 Is the decline concentrated in certain days or periods
 
+### Day Period Order Summary 
+
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/order.png)
+
+Morning is the critical sales window 
+With 45.5% of orders, morning demand is substantially higher than any other period. This suggests 
+businesses should prioritise staffing, inventory, promotions, and operational capacity during morning hours.
+Demand is concentrated during daytime/evening
+Morning , midday and evening account for approximately 96.5% of all orders 
+This means the business has very little demand at night
 
 
+### Daily Revenue Performance
 
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/daily.png)
 
+The daily revenue trend indicates a positive underlying growth trajectory, with revenue increasing from approximately 
+$2.5K–$3K early in the period to $5K–$6K+ in later periods. The upward movement in the rolling average further supports
+sustained improvement in the business's revenue performance
 
+Revenue momentum is positive, with later-period daily revenue consistently reaching higher levels than at the beginning of the period
+The upward rolling average indicates that the improvement is not driven solely by isolated high revenue days, suggesting a broader positive trend
+Despite the overall growth, the daily series shows significant fluctuations, with sharp spikes and declines indicating that revenue performance is not yet fully stable
+This volatility creates a need to understand the operational and commercial factors behind unusually strong or weak days
+
+The business is experiencing healthy revenue growth, but with inconsistent daily performance. Identifying 
+the drivers of these fluctuations could help replicate high-performing periods while reducing the impact of weaker days
 
 
 
