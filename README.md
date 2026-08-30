@@ -93,6 +93,24 @@ The business is experiencing healthy revenue growth, but with inconsistent daily
 the drivers of these fluctuations could help replicate high-performing periods while reducing the impact of weaker days
 
 
+## Sales Overall Performance
+
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/overall.png)
+
+Monthly revenue: $172.41K — +6.3% vs. last month
+Weekly revenue: $27.39K — -35.2% vs. last week
+Daily revenue: $5.68K — +22.9% vs. last day
+
+The business is showing good monthly growth, but very significant short-term volatility
+The main story is the overall business is growing, but the most recent week has experienced a sharp drop
+
+
+
+
+
+
+
+
 
 
 
