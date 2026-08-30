@@ -13,13 +13,43 @@
 - **Weekly Order Trend:** Orders declined by **32.8% compared with the previous week**, highlighting a significant short-term decline in order volume.
 - **Daily AOV Trend:** Average order value remained **relatively stable, increasing by just 0.05% compared with the previous day**, suggesting minimal change in average customer spend per order
 
+### Product Performance 
+
 ##  Coffee Category
 
 ![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/Product.png)
 
-Barista Espresso leads the Coffee category, generating $92.29K in revenue and ranking as the category's strongest individual product
-Gourmet Brewed Coffee follows with $70.02K, making it the second-highest revenue-generating product within the category
-Revenue is highly concentrated among the top two products. Together, Barista Espresso and Gourmet Brewed Coffee account for approximately 60% of total Coffee category revenue, indicating that a relatively small number of products drive a significant share of category performance
+The drill-down analysis identifies the products driving performance within the selected top-performing category
 
-These products should be prioritized when evaluating inventory availability, promotional campaigns, pricing strategies, 
-and product-level performance, as changes in their performance could have a noticeable impact on overall Coffee category revenue
+Barista Espresso is the leading product, generating $92.29K and contributing approximately 34.1% of the Coffee category's $270.84K total revenue
+Gourmet Brewed Coffee ranks second with $70.02K, contributing approximately 25.9% of category revenue
+Combined, these two products generat$162.31K, accounting for approximately 59.9% of total Coffee category revenue
+The concentration of nearly 60% of category revenue across two products highlights their importance to overall 
+Coffee category performance and makes them key products for inventory planning, promotions, and revenue optimization
+
+
+##  Tea Category
+
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/tea.png)
+
+
+Brewed Chai Tea is the leading product, generating $66.45K and contributing approximately 33.8% of the Tea category's $196.41K total revenue
+Brewed Herbal Tea ranks second with $47.54K, contributing approximately 24.2% of category revenue
+Combined, these two products generate $113.99K, accounting for approximately 58.0% of total Tea category revenue
+The concentration of nearly 58% of category revenue across two products highlights their importance to overall
+Tea category performance and identifies them as key products for inventory planning, promotional campaigns, and revenue optimization
+Brewed Chai Tea leads Brewed Herbal Tea by $18.91K, reinforcing its position as the strongest individual product within the Tea category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
