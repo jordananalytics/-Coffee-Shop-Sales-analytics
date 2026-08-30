@@ -97,9 +97,9 @@ the drivers of these fluctuations could help replicate high-performing periods w
 
 ![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/Overall.png)
 
-Monthly revenue: $172.41K — +6.3% vs. last month
-Weekly revenue: $27.39K — -35.2% vs. last week
-Daily revenue: $5.68K — +22.9% vs. last day
+1. Monthly revenue: $172.41K — +6.3% vs last month
+2. Weekly revenue: $27.39K — -35.2% vs last week
+3. Daily revenue: $5.68K — +22.9% vs last day
 
 The business is showing good monthly growth, but very significant short-term volatility
 The main story is the overall business is growing, but the most recent week has experienced a sharp drop
