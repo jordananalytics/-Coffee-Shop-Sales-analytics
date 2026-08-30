@@ -1,4 +1,4 @@
-# -Coffee-Shop-Sales-analytics
+# Coffee-Shop-Sales-analytics
 
 ## Sales Overview
 
@@ -40,7 +40,29 @@ The concentration of nearly 58% of category revenue across two products highligh
 Tea category performance and identifies them as key products for inventory planning, promotional campaigns, and revenue optimization
 Brewed Chai Tea leads Brewed Herbal Tea by $18.91K, reinforcing its position as the strongest individual product within the Tea category
 
+##  The MoM revenue trend
 
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/mom.png)
+
+The business experienced four consecutive months of strong month-over-month growth, culminating in a +31.5% increase in May, 
+the strongest monthly growth recorded during the period
+The growth trend was preceded by a relatively modest -6.5% decline in February, indicating that the business recovered quickly from the early-period setback
+The sharp acceleration through May demonstrates a period of strong positive momentum, suggesting improving revenue performance over consecutive months
+However, the subsequent slowdown indicates that the strong growth momentum may be starting to weaken, making the latest month important to monitor
+
+##  Weekly Order Decline
+
+Orders sold are down 32.8% vs last week
+That's much more concerning than the relatively small daily AOV movement
+Since AOV hasn't meaningfully increased, the business cannot compensate for 
+a major decline in transaction volume through higher customer spending
+Priority investigation:
+Was there a reduction in store traffic
+Did operating hours change
+Were particular locations affected
+Was there a promotion last week that wasn't repeated
+Are specific products unavailable
+Is the decline concentrated in certain days or periods
 
 
 
