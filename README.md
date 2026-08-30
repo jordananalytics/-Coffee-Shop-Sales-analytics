@@ -1,5 +1,9 @@
 # -Coffee-Shop-Sales-analytics
 
+## Sales Overview
+
+![Coffee Shop Sales Dashboard](Photos/over.png)
+
 ##  Key Performance Indicators
 
 - **Sales Revenue:** **$723.62K**
