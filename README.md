@@ -97,18 +97,54 @@ the drivers of these fluctuations could help replicate high-performing periods w
 
 ![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/Overall.png)
 
-1. Monthly revenue: $172.41K — +6.3% vs last month
-2. Weekly revenue: $27.39K — -35.2% vs last week
-3. Daily revenue: $5.68K — +22.9% vs last day
+1. Monthly revenue $172.41K — +6.3% vs last month
+2. Weekly revenue $27.39K — -35.2% vs last week
+3. Daily revenue $5.68K — +22.9% vs last day
 
 The business is showing good monthly growth, but very significant short-term volatility
 The main story is the overall business is growing, but the most recent week has experienced a sharp drop
 
+Weekly revenue is currently $27.39K, down 35.2% from the previous week.
+Looking at the weekly trend, revenue generally climbed from roughly $17–20K in the early weeks to $35–42K around Weeks 20–26.
+Then
+Week 26 = $42K
+Week 27 = $27K
+That's an impressive drop
 
+This isn't simply a long-term decline because the longer-term trend is still upward
+It looks more like a recent operational, demand, or timing issue
 
+The daily revenue KPI is $5.68K, up 22.9% vs the previous day
+This is important because it suggests the weekly decline may not necessarily represent a continuing downward trend
 
+### Store Performance
 
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/store.png)
 
+The three stores are remarkably balanced
+Hell's Kitchen leads, but only slightly. Astoria and Lower Manhattan are almost identical
+That's actually a positive sign the business isn't dependent on one location
+However, because the stores are so similar in total revenue, the 35.2% weekly decline should be investigated across 
+all three locations, rather than assuming it is a single-store problem
+
+### Item sales by day period
+
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/item.png)
+
+Morning is the strongest sales period, accounting for nearly half of all item sales
+Night is extremely weak, with only 7,745 items sold — about 12.5× lower than Morning
+Meanwhile, Evening + Midday account for approximately 51% of total item volume, while Morning alone contributes about 45%
+Business takeaway: Sales are heavily concentrated in the Morning, while the Night period represents a significant under performing 
+window and may warrant investigation into operating hours, customer demand, or product availability
+
+### Monthly summmary 
+
+![Coffee Shop Dashboard](Coffee-shop-sales-files/Photos/month.png)
+
+This is a very strong growth trajectory
+From January through June, revenue share rises from about 11.7% to 23.8%
+May was a major acceleration, and June became the strongest month in the dataset
+This supports the first dashboard's finding that the business had strong momentum through May/June
 
 
 
