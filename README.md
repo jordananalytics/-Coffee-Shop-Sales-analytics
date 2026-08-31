@@ -163,5 +163,20 @@ rather than customers suddenly spending much more per transaction
 That's consistent with the first dashboard's $4.85 AOV
 
 
+###  Recommendation
+
+1 Investigate the 35.2% weekly revenue decline  immediate priority<br>
+2 Protect and promote the top-selling products   
+3 Maximize morning operations and sales  
+4 Reduce daily revenue volatility ( improve consistency and forecasting )
+5 Increase transaction frequency  ( support sustainable long-term growth )
+
+The business has a strong long term growth trajectory, but the recent sharp decline in weekly orders and revenue is the biggest warning sign<br>
+ The immediate focus should be on understanding what caused the decline while protecting the products, time periods, and customer segments 
+ that are already driving the majority of sales
+
+
+
+
 
 
