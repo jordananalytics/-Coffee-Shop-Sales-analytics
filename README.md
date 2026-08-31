@@ -146,7 +146,18 @@ From January through June, revenue share rises from about 11.7% to 23.8%
 May was a major acceleration, and June became the strongest month in the dataset
 This supports the first dashboard's finding that the business had strong momentum through May/June
 
+The order percentage and revenue percentage are almost identical every month
+June
+Orders = 23.71%
+Revenue = 23.83%
+May
+Orders = 22.48%
+Revenue = 22.41%
 
+This suggests that the average order value isn't changing dramatically between months
+So growth is primarily coming from more orders/transactions 
+rather than customers suddenly spending much more per transaction
+That's consistent with the first dashboard's $4.85 AOV
 
 
 
