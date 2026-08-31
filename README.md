@@ -147,12 +147,16 @@ May was a major acceleration, and June became the strongest month in the datase
 This supports the first dashboard's finding that the business had strong momentum through May/June
 
 The order percentage and revenue percentage are almost identical every month
-June
-Orders = 23.71%
-Revenue = 23.83%
-May
-Orders = 22.48%
-Revenue = 22.41%
+
+1    June
+
+(1) Orders = 23.71%
+(2) Revenue = 23.83%
+
+ 2    May
+ 
+(1) Orders = 22.48%
+(2) Revenue = 22.41%
 
 This suggests that the average order value isn't changing dramatically between months
 So growth is primarily coming from more orders/transactions 
